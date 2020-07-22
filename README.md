@@ -4,7 +4,7 @@
 
 **Es el año 2220 en un lugar muy lejano al planeta Tierra. El líder supremo, de nombre impronunciable e imposible de escribir, gobierna su planeta a puño de hierro. Su población es mayormente mano de obra esclava que utiliza para fabricar gran cantidad de naves con las que planea dominar toda la galaxia.**
 
-![](rebelde.png)
+![](planeta.jpg)
 
 Para poder mantenerse en el poder destina una parte importante de sus recursos a monitorear a sus habitantes y detectar tanto crímenes como posibles focos de disidencia. Para esto cuenta con un programa hecho en Prolog que tiene información sobre todos y cada uno de los habitantes. Si bien parece contener millones y millones de líneas de código, nuestro objetivo va a ser reimplementar ciertas partes centrales del sistema para entender cómo funcionan y, en un futuro, lanzar una ofensiva para rescatar a toda la población.
 
