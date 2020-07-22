@@ -26,10 +26,10 @@ _**Nombre: f55840c38474c1909ce742172a77a013**
 Trabaja en inteligencia militar. Vive en la Comisaría 48 y es el único que vive allí. Es muy bueno en tiro al blanco; ama los juegos de azar, el ajedrez y tambien el tiro al blanco. En su historial criminal se encuentra la falsificación de vacunas y fraude._
 
 ![](desconocido.jpg)
+
 _**Nombre 42fc1cd45335ad42d603657e5d0f2682**
 (inventale su info)_
 
-![](espejo.png)
 _**¡Agregate vos!**_
 
 La actividad política se encuentra fuertemente restringida, con lo que las agrupación que pretenden modificar el orden reinante debieron volverse clandestinas y son buscadas intensamente. Para llevar a cabo sus actividades utilizan pasadizos y túneles ocultos en las viviendas, utilizando nanotecnología para esconderse.
