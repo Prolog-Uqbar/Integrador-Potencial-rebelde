@@ -11,6 +11,7 @@ Para poder mantenerse en el poder destina una parte importante de sus recursos a
 Para un mayor control de los ciudadanos, los nombres en el planeta fueron reemplazados por un [hash md5](https://www.md5hashgenerator.com/) de su nombre anterior. Hicimos un ataque de intermediario y logramos conseguir algunas fichas de los ciudadanos, que asumimos se utilizaron para generar la base de conocimientos del sistema:
  
 ![](ciudadano1.png)
+_Fotos generadas con https://thispersondoesnotexist.com/_
 
 _**Nombre: 912ec803b2ce49e4a541068d495ab570**
 Trabaja de ingeniera mecánica en la Universidad Tecnológica Intergaláctica. Le gusta el fuego y la destrucción. Es buena armando bombas y vive en la misma casa con 1f5364c58947e14f9afa445bdf1ba4d9 y 2e416649e6ca0a1cbf9a1210cf4ce234. A esa casa le suelen decir “La Severino”. No tiene historial criminal._
@@ -24,8 +25,6 @@ Trabaja en la aviación militar. No parece tener gustos, pero se sabe que es bue
 
 _**Nombre: f55840c38474c1909ce742172a77a013**
 Trabaja en inteligencia militar. Vive en la Comisaría 48 y es el único que vive allí. Es muy bueno en tiro al blanco; ama los juegos de azar, el ajedrez y tambien el tiro al blanco. En su historial criminal se encuentra la falsificación de vacunas y fraude._
-
-![](desconocido.jpg)
 
 _**Nombre 42fc1cd45335ad42d603657e5d0f2682**
 (inventale su info)_
